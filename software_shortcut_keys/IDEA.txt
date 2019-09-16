@@ -1,0 +1,11 @@
+查看调用此函数的方法：Alt + B
+查看实现类 ： Ctrl + Alt + B
+删除未调用的import ： Ctrl + Alt + O
+快速格式化 ： Ctrl + Alt + L
+查看引用，代码补全提示： Alt + Enter
+快速在末尾生成引号： Ctrl + Shift + Enter
+快速查找文件中的内容 ：  Ctrl + Shift + F
+快速在当前页查找内容 ：  Ctrl + F
+快速查找类： Ctrl + N
+快速查找所有文件 ： Shift + Shift
+

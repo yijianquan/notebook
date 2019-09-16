@@ -1,0 +1,1 @@
+putty连接centeOS，解决终端乱码：https://blog.csdn.net/xsc_c/article/details/9330383

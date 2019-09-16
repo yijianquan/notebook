@@ -1,0 +1,8 @@
+chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security : 打开跨域谷歌浏览器
+notepad : 快速打开记事本
+mspaint : 打开画图工具
+regedit.exe : 打开注册表编辑器
+dcomcnfg : 打开组件服务
+write : 写字板
+cmd : 命令行
+c:   :  快速打开c盘(不区分大小写)
