@@ -8,4 +8,7 @@
 快速在当前页查找内容 ：  Ctrl + F
 快速查找类： Ctrl + N
 快速查找所有文件 ： Shift + Shift
+快速生成System.out.println : sout
+快速生成System.err.println : serr
+快速生成public static void main(String []args){} : main
 

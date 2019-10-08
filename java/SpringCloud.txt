@@ -1,0 +1,5 @@
+启动某服务：
+public static void main(String[] args) {
+    SpringApplication.run(********Application.class, args);
+    该类名 * = ApplicationContextProvider.getBean(该类名.class);
+}

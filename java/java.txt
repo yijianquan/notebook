@@ -1,0 +1,10 @@
+//生成指定length的随机字符串（A-Z，a-z，0-9）
+String str = RandomStringUtils.randomAlphanumeric(32);
+
+是否为空 && 包括
+!StringUtils.isEmpty(request.getProvider()) && !Arrays.asList("aliyun", "aws", "awscn", "tencent", "random").contains(request.getProvider())
+
+list.stream.filter(x->条件) ：过滤list
+list.stream.collet(Collectors.函数(对象的属性)) ：过滤list
+
+Iterator<Class> List<Class> = List<Class>.iterator()  :   迭代器
