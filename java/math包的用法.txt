@@ -1,0 +1,19 @@
+abs(参数),返回绝对值
+
+addExact(参数，参数)，求和，如果溢出则报错
+
+decrementExact(参数)，减一，如果溢出报错
+
+floor(参数（double）)，返回一个最接近参数的数
+
+incrementExact(参数)，返回自变量+1的数，溢出报错
+
+multiplyExact(参数，参数)，返回参数的乘积，溢出报错
+
+negateExact(参数)，返回参数的否定，溢出报错
+
+round(参数)，返回参数中最接近的 long ，其中 long四舍五入为正无穷大。
+
+subtractExact(a, b)，返回参数的差，溢出报错
+
+toIntExact(参数（long）)，返回long参数的int值，溢出报错

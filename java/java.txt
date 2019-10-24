@@ -8,3 +8,19 @@ list.stream.filter(x->条件) ：过滤list
 list.stream.collet(Collectors.函数(对象的属性)) ：过滤list
 
 Iterator<Class> List<Class> = List<Class>.iterator()  :   迭代器
+
+数组排序：Arrays.sort(数组)；
+数组二分查找 ： Arrays.binarySearch(arry, “查找的值”);
+
+测试代码运行时间
+long start = System.currentTimeMillis();
+for (int x = 0; x < 100000; x++) {
+	System.out.println("hello" + x);
+}
+long end = System.currentTimeMillis();
+System.out.println("共耗时：" + (end - start) + "毫秒");
+
+指定范围随机数：
+int start = ;
+int end = ;
+int rd = (int)(Math.random()*(end - start + 1)) + start; 
